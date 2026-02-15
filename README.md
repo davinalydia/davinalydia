@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nana! 👋 (Davina Lydia Alessandra Mamesah)
 
-<!--
-**davinalydia/davinalydia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student at IPB University** who loves to explore the vast world of technology. Whether it's crafting beautiful user interfaces or diving into the logic of AI, I'm always up for a challenge!
 
-Here are some ideas to get you started:
+### 💫 About Me:
+- 🎓 **Education:** Computer Science at IPB University.
+- 🚀 **Past Experience:** Explored Mobile App Development (Frontend) using **Flutter**.
+- 🤖 **Current Focus:** Deep diving into **AI Engineering** as part of **Coding Camp 2026 by DBS Foundation**.
+- 🌱 **Learning:** Enhancing my skills in machine learning models and AI implementation.
+- ⚡ **Fun Fact:** I'm a fast learner and I love exploring new tech stacks!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools:
+- **Languages:** Dart, Python
+- **Frameworks:** Flutter
+- **Tools:** Git & GitHub, VS Code
+- **Current Interest:** Artificial Intelligence & Machine Learning
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/davina-lydia-alessandra/)
+- [Instagram](https://www.instagram.com/davinalydiaa)
+
+---
+*“Learning is a never-ending journey, and I’m just getting started!”* ✨
