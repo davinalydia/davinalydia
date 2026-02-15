@@ -16,8 +16,8 @@ I'm a **Computer Science student at IPB University** who loves to explore the va
 - **Current Interest:** Artificial Intelligence & Machine Learning
 
 ### 📊 GitHub Stats:
-![Nana's GitHub stats](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app)
+![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=davinalydia&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davinalydia&layout=compact&theme=tokyonight)
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/davina-lydia-alessandra/)
